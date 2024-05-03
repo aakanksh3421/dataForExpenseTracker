@@ -1,4 +1,5 @@
 {
+  "budget" : 100000,
   "payments": [
     {
       "reason": "New clothes",
